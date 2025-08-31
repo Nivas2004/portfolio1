@@ -21,7 +21,7 @@ const About = () => {
         </p>
 
         <a
-          href="/resume.pdf"  // Make sure 'resume.pdf' is placed inside the 'public' folder
+          href="/Nivas'sresume.pdf"  // Make sure 'resume.pdf' is placed inside the 'public' folder
           download
           className="inline-block bg-black text-white font-medium py-2 px-6 rounded-full shadow-md hover:bg-gray-800 transition duration-300"
         >
