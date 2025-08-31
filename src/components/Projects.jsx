@@ -15,7 +15,7 @@ const projects = [
    {
     title: 'Personal Portfolio',
     description: 'A fully responsive and interactive portfolio website built with React and TailwindCSS, showcasing projects, achievements, and professional profile.',
-    link: '#', // Replace with your live portfolio link if deployed
+    link: 'https://portfolio1-one-ashen.vercel.app/', // Replace with your live portfolio link if deployed
   },
 ];
 
