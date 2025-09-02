@@ -10,12 +10,18 @@ const projects = [
  {
     title: 'Imagify – Text to Image Generator',
     description: 'A creative AI tool that generates images from textual descriptions using advanced machine learning models.',
-    link: 'https://imagify-frontend-etio.vercel.app/', // Replace with your live link if deployed
+    link: 'https://imagify-frontend-c46z.vercel.app/', // Replace with your live link if deployed
   },
    {
     title: 'Personal Portfolio',
     description: 'A fully responsive and interactive portfolio website built with React and TailwindCSS, showcasing projects, achievements, and professional profile.',
     link: 'https://portfolio1-f8qd.vercel.app/', // Replace with your live portfolio link if deployed
+  },
+  {
+    title: "DeepGynScan – Cervical Cancer Prediction",
+    description:
+      "A deep learning-based healthcare project that analyzes colposcopy images to detect precancerous and cancerous cervical lesions, enabling early diagnosis and better treatment outcomes.",
+    link: "https://deepgynscan-frontend.onrender.com/", // 👈 replace with your actual repo/demo
   },
 ];
 
